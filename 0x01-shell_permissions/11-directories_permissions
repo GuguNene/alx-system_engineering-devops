@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd  -R +X i.
+chomd  -R +X .
